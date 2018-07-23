@@ -1,6 +1,6 @@
 NEIGHBORHOOD MAP (REACT)
 
-Map shows places where 9 Slovak castles are located. After clicking the marker, the Wikipedia info on particular castle retreives.
+Map shows places where 9 Slovak castles are located. After clicking the marker, the Wikipedia info on particular castle retrieves.
 
 HOW TO RUN IN DEVELOPER MODE:
 1. Download the repo
